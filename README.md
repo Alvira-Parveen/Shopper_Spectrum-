@@ -14,11 +14,14 @@ The project helps businesses understand customer purchasing behavior, improve ma
 
 ---
 
-🌐 **Live Demo:** 👉 **[Try it live here](https://huggingface.co/spaces/Alvira-14/Shopper_Spectrum)**
-
+🌐 **Live Demo:** 👉 [Shopper Spectrum on Hugging Face](https://huggingface.co/spaces/Alvira-14/Shopper_Spectrum)
 ---
 
 ## 📸 Screenshots
+
+### Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
 
 ### Product Recommendation Module
 
@@ -31,10 +34,6 @@ The project helps businesses understand customer purchasing behavior, improve ma
 ### Customer Cluster Visualization
 
 ![Clusters](Screenshots/clusters.png)
-
-### Top Selling Products Analysis
-
-![Products](Screenshots/products.png)
 
 ---
 
