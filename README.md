@@ -14,7 +14,7 @@ The project helps businesses understand customer purchasing behavior, improve ma
 
 ---
 
-🌐 **Live Demo:** **[Try it live here] (https://huggingface.co/spaces/Alvira-14/Shopper_Spectrum)**
+🌐 **Live Demo:** 👉 **[Try it live here](https://huggingface.co/spaces/Alvira-14/Shopper_Spectrum)**
 
 ---
 
