@@ -399,17 +399,15 @@ This solution helps businesses:
 
 ## 👤 Author
 
-**ALVIRA PARVEEN**
-
-🔗 LinkedIn: https://www.linkedin.com/in/alvira-parveen-78022536b
-
-🌐 GitHub: https://github.com/Alvira-Parveen
+**Name**: ALVIRA PARVEEN  
+🔗 [LinkedIn](https://www.linkedin.com/in/alvira-parveen-78022536b)  
+🌐 [GitHub](https://github.com/Alvira-Parveen)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
